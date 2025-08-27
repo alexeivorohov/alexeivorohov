@@ -1,13 +1,11 @@
 ## Hello there 👋
 
-<!--
 
 My name is Alexei, and I'm on the geodesic path to a PhD degree in Theoretical Physics.
 
 My primary research interests include relativity and astrophysics, but I also have a keen interest in machine learning, open-source software, and writing nice code.
 
 Currently, I am working on [bhtrace](https://github.com/alexeivorohov/bhtrace), a general-purpose radiative transfer library designed for modeling observations of black holes in non-classical setups.
--->
 
 ## Skills
 
